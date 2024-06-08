@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Bestfriend Rings",
+        "price": 65,
+        "stocks": 22
+    },
+    {
+        "name": "Trust God Ring",
+        "price": 76,
+        "stocks": 10
+    },
+    {
+        "name": "Heart Adjustable Ring",
+        "price": 80,
+        "stocks": 8
+    },
+    {
+        "name": "Beaded Anklet",
+        "price": 85,
+        "stocks": 8
+    },
+    {
+        "name": "Flexible Anklet",
+        "price": 89,
+        "stocks": 15
+    },
+    {
+        "name": "Shell Anklet",
+        "price": 95,
+        "stocks": 10
+    },
+    {
+        "name": "Moonlight Bracelet",
+        "price": 129,
+        "stocks": 13
+    },
+    {
+        "name": "Cute Tulip Bracelet",
+        "price": 130,
+        "stocks": 9
+    },
+    {
+        "name": "Pair of Star Bracelet",
+        "price": 160,
+        "stocks": 16
+    },
+    {
+        "name": "Simple Pearl Necklace",
+        "price": 200,
+        "stocks": 22
+    },
+    {
+        "name": "Red Butterfly Necklace ",
+        "price": 250,
+        "stocks": 17
+    },
+    {
+        "name": "Blue Ocean Heart Necklace",
+        "price": 270,
+        "stocks": 10
+    },
+    {
+        "name": "Locket Necklace",
+        "price": 275,
+        "stocks": 10
+    }
+]
