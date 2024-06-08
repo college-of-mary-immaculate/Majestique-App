@@ -1,0 +1,117 @@
+[
+    {
+        "customer_name": "eme",
+        "customer_address": "eme",
+        "order_date": "2024-05-24 20:12:32",
+        "items": [
+            {
+                "item": {
+                    "name": "Trust God Ring",
+                    "price": 76,
+                    "stocks": 10
+                },
+                "quantity": 10
+            }
+        ]
+    },
+    {
+        "customer_name": "Jillian",
+        "customer_address": "Woodbridge, Poblacion",
+        "order_date": "2024-05-24 21:51:02",
+        "items": [
+            {
+                "item": {
+                    "name": "Red Butterfly Necklace ",
+                    "price": 250,
+                    "stocks": 7
+                },
+                "quantity": 3
+            },
+            {
+                "item": {
+                    "name": "Simple Pearl Necklace",
+                    "price": 200,
+                    "stocks": 8
+                },
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "customer_name": "Leina",
+        "customer_address": "San Roque, Pandi",
+        "order_date": "2024-05-24 21:53:31",
+        "items": [
+            {
+                "item": {
+                    "name": "Beaded Anklet",
+                    "price": 85,
+                    "stocks": 8
+                },
+                "quantity": 2
+            },
+            {
+                "item": {
+                    "name": "Pair of Star Bracelet",
+                    "price": 160,
+                    "stocks": 6
+                },
+                "quantity": 4
+            },
+            {
+                "item": {
+                    "name": "Cute Tulip Bracelet",
+                    "price": 130,
+                    "stocks": 9
+                },
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "customer_name": "Oreo",
+        "customer_address": "Cuenca, Batangas",
+        "order_date": "2024-05-25 09:08:12",
+        "items": [
+            {
+                "item": {
+                    "name": "Heart Adjustable Ring",
+                    "price": 80,
+                    "stocks": 8
+                },
+                "quantity": 2
+            },
+            {
+                "item": {
+                    "name": "Flexible Anklet",
+                    "price": 89,
+                    "stocks": 8
+                },
+                "quantity": 2
+            },
+            {
+                "item": {
+                    "name": "Simple Pearl Necklace",
+                    "price": 200,
+                    "stocks": 6
+                },
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "customer_name": "Hatdog",
+        "customer_address": "Caypombo, Sta. Maria",
+        "order_date": "2024-05-25 09:24:38",
+        "items": [
+            {
+                "item": {
+                    "name": "Flexible Anklet",
+                    "price": 89,
+                    "stocks": 5
+                },
+                "quantity": 3
+            }
+        ]
+    }
+]
