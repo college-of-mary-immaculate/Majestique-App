@@ -4,3 +4,5 @@
 ## Contributors
   - Ellorando, Rodien Jillian T.
   - Sta. Ana, Eleina Anne A.
+
+A project submitted in partial fulfillment of the requirements for the course Analysis of Algorithm (ANALGOR), second semester of academic year 2023-2024.
